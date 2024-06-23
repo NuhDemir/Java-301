@@ -1,4 +1,4 @@
-package ch002.ch003;
+package ch003;
 
 public class FootballPlayerTest {
 
